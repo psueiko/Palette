@@ -1,0 +1,7 @@
+Farbpalette
+
+Rot
+Hellgrün
+Dunkelgrün
+Blau
+Gelb
