@@ -1,5 +1,6 @@
 Farbpalette
 
+Rot
 Grün
 Blau
-rot
+Gelb
